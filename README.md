@@ -1,1 +1,1 @@
-# codeigniter-spamcountrylock
+I created this filter to prevent unwanted SPAM from certain countries on your CI 4 application. Today, I encountered a massive SPAM attack from an IP in Singapore, so I developed this anti-spam solution. Please note that spam can generate a large number of session files in CI, which may lead to storage issues.
